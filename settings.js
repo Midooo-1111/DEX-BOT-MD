@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'DexBot',
-  author: '.‎',
-  botName: "Dexbotmd",
-  botOwner: 'Dex Shyam Chaudhari', // Your name
+  packname: '𝗔𝗜𝗭𝗘𝗡 𝗕𝗢𝗧',
+  author: '𝖬𝖮𝖧𝖠𝖬𝖤𝖣 𝖠𝖸𝖬𝖠𝖭',
+  botName: "𝗔𝗜𝗭𝗘𝗡 𝗕𝗢𝗧",
+  botOwner: '𝖬𝖮𝖧𝖠𝖬𝖤𝖣 𝖠𝖸𝖬𝖠𝖭', // 𝖬𝖮𝖧𝖠𝖬𝖤𝖣 𝖠𝖸𝖬𝖠𝖭
   ownerNumber: '', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
